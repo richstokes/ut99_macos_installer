@@ -15,7 +15,6 @@ if [ "$(uname)" != "Darwin" ]; then
     exit 1
 fi
 
-
 # Get file name from OLD_UNREAL_PATCH_URL
 OLD_UNREAL_PATCH_FILE=$(basename "$OLD_UNREAL_PATCH_URL")
 # echo "Downloading $OLD_UNREAL_PATCH_FILE"
