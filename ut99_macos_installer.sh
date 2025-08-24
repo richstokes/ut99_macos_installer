@@ -2,7 +2,7 @@
 set -e
 
 INTEL_INSTALLER_URL="http://home.macintosh.garden/~vmgl/Files/Intel_OS_X.zip"
-OLD_UNREAL_PATCH_URL="https://github.com/OldUnreal/UnrealTournamentPatches/releases/download/v469d/OldUnreal-UTPatch469d-macOS.dmg"
+OLD_UNREAL_PATCH_URL="https://github.com/OldUnreal/UnrealTournamentPatches/releases/download/v469e-rc8/OldUnreal-UTPatch469e-macOS.dmg"
 ASSETS_DIR="$HOME/Library/Application Support/Unreal Tournament"
 
 echo "This script will install Unreal Tournament 99 on your Mac."
