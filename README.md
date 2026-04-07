@@ -7,7 +7,7 @@ Download/Clone the repo, then run:
 
 ```
 chmod +x ut99_macos_installer.sh
-./ut99_macos_installer.sh`
+./ut99_macos_installer.sh
 ```
 
 &nbsp;
