@@ -3,7 +3,12 @@ Installs Unreal Tournament '99 on MacOS with the latest patches. Tested/works wi
 
 
 ## Run
-`./ut99_macos_installer.sh`
+Download/Clone the repo, then run:  
+
+```
+chmod +x ut99_macos_installer.sh
+./ut99_macos_installer.sh`
+```
 
 &nbsp;
 
